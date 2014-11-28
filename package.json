@@ -1,0 +1,17 @@
+{
+  "name": "dom-move",
+  "description": "Move children from one DOM node to another.",
+  "tags": ["dom", "move", "browser", "webmodule", "children"],
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "author": "Marco Aurelio",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/webmodules/dom-paste.git"
+  },
+  "bugs": {
+    "url": "https://github.com/webmodules/dom-paste/issues"
+  },
+  "homepage": "https://github.com/webmodules/dom-paste"
+}
