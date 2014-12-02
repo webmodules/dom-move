@@ -2,8 +2,8 @@ function move(from, to) {
   if (!to) {
     to = from.ownerDocument.createDocumentFragment();
   }
-  while (from.firstNode) {
-    to.appendChild(from.firstNode);
+  while (from.firstChild) {
+    to.appendChild(from.firstChild);
   }
   return to;
 }
