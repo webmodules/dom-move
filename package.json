@@ -2,7 +2,7 @@
   "name": "dom-move",
   "description": "Move children from one DOM node to another.",
   "tags": ["dom", "move", "browser", "webmodule", "children"],
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
   },
   "author": "Marco Aurelio",
